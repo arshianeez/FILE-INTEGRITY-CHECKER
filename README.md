@@ -1,5 +1,5 @@
 # FILE-INTEGRITY-CHECKER
-Company: Codetech IT Solutions
+Company: Codtech IT Solutions
 
 Name:Arshi M
 
