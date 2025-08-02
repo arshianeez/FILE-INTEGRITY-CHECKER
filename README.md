@@ -15,4 +15,4 @@ Python tool to monitor file integrity using hash values
 
 Output:
 
-<img width="1335" height="688" alt="Image" src="https://github.com/user-attachments/assets/d6021853-b48f-4f10-8785-28e50971c596" />
+<img width="1110" height="736" alt="Image" src="https://github.com/user-attachments/assets/39c2c608-74bf-473f-97a4-d896fb24a734" />
